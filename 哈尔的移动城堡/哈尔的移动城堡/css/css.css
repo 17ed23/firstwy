@@ -1,0 +1,39 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: "宋体";font-size: 12px;color:#000000;line-height: 20px;text-align:left; background:url(../images/b.jpg); background-size: cover}
+td,th {font-family: "宋体";font-size: 12px;color: #000000;}
+a {color: #000000;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none;}
+.clearit{clear:both;}
+
+
+.da {width:1000px; margin:0 auto; background: rgba(255,255,255, 0.8 )}
+.ban {width:1000px; height:440px;}
+.nav {width:1000px; height:50px; background:#374362; line-height:50px;}
+.nav li { width:166.66px; float:left; text-align:center;}
+.nav li a {width:166.66px; height:50px; display:block; font-size:16px; color:#FFF; font-weight:bold;}
+.nav li A:hover { background:#52638f;}
+.zuo {width:470px; float:left; padding-left:20px; padding-bottom:20px;}
+.zuo h2 {width:430px; height:40px; padding-left:20px; margin-top:20px; background:#77a720; border-radius:15px; line-height:40px; color:#FFF }
+.zi {margin-top:20px;}
+.zi p {line-height:30px; text-indent:2em; font-size:14px}
+.you {width:440px;  padding:20px; float:left; margin-left:30px; background:#7fdce2;}
+.you h2 {width:420px; height:40px; padding-left:20px; background:#77a720; border-radius:15px; line-height:40px; color:#FFF }
+.you li {width:220px; float:left; margin-top:10px;}
+
+.yi { width:1000px; border-top:1px dashed #666666;}
+.yi h2 {width:940px; height:40px; padding-left:20px; margin:0 auto; margin-top:20px;  background:#77a720; border-radius:15px; line-height:40px; color:#FFF }
+.yi ul {width:960px; margin:0 auto;}
+.yi ul li {width:240px; float:left; text-align:center; line-height:30px; margin-top:20px;}
+.yi ul li a { font-size:14px;}
+.yi li A:hover { color:#F00;}
+.foot {width:1000px; height:60px; background:#374362; line-height:60px; margin-top:20px; text-align:center; font-size:16px; color:#FFF; font-weight:bold;}
+.er {width:960px; padding:20px;}
+.er h2 {width:940px; height:40px; padding-left:20px; margin:0 auto; margin-top:20px;  background:#77a720; border-radius:15px; line-height:40px; color:#FFF }
+.san{ margin-top:20px;}
+.si input {width:300px; padding-left:10px; height:35px; border-radius:15px; margin-top:20px;}
+.wu textarea {width:350px; height:120px; padding-left:10px;  margin-top:20px;}
+.liu input {width:100px; height:35px; margin-top:20px;}
